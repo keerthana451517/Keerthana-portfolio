@@ -1,0 +1,23 @@
+
+.contact{
+    height:20px;
+    width:500px;
+}
+input{
+    height:40px;
+    width:400px;
+    margin: 20px;
+    text-align: center;
+}
+form,table{
+    text-align: center;
+}
+button{
+    text-align: center;
+    margin:20px;
+    height:30px;
+    width:180px;
+}
+button:hover{
+    color:blue;
+}

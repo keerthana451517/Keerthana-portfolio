@@ -1,0 +1,32 @@
+*{
+    background-color:pink;
+    color:rgb(10, 10, 10);
+}
+nav{
+    text-align: end;
+}
+h1,h2{
+    text-align: center;
+}
+
+li{
+    display: inline-flex;
+    margin-left: 20px;
+}
+li :hover{
+    color:blue
+}
+.content{
+    display: inline;
+    text-align:center;
+}
+
+h1:hover{
+    color:red;
+}
+span{
+    color: rgb(11, 11, 204);
+}
+span:hover{
+    color:rgb(10, 252, 50);
+}
